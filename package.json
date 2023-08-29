@@ -1,0 +1,15 @@
+{
+  "name": "repro-vercel-edge-runtime-accelerate",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.2.0",
+    "@prisma/extension-accelerate": "^0.6.0",
+    "prisma": "^5.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vercel": "^32.1.0"
+  }
+}
